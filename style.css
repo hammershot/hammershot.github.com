@@ -675,7 +675,7 @@
 		top: 50%;
 		position: absolute;
 		background-image: url(images/preloader.gif);
-		margin: 44px 0 0 -100px;
+		margin: -44px 0 0 -100px;
 	}
 
 /*--------------------------------------------------
