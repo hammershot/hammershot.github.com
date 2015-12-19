@@ -775,7 +775,18 @@
 	.clapat-menubtn:hover .btn_menu_line {
 		background-color:#71d4aa!important;
 	}
-			
+	
+	.mostpop {
+  position: absolute;
+  padding: 5px 0;
+  left: 0;
+  right: 0;
+  background: #75d3ab;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 13px;
+   }		
 			
 			
 /*--------------------------------------------------
